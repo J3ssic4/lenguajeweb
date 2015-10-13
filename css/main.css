@@ -1,0 +1,71 @@
+h1{
+	color:red;
+	font-size:20px;
+	font-family:Helvetica;
+	font-weight:500;
+}
+h2{
+	color:red;
+	font-size:20px;
+	font-family:Helvetica;
+	font-weight:500;
+}
+img{
+	border-color:blue;
+	border-width:3px;
+	border-style:solid;
+}
+p{
+	background: yellow;
+	 font-size: 14px;
+}
+.grande{
+	font-size:30px;
+}
+.sub{
+	text-decoration:underline;
+}
+p a{
+	color:#AAAAAA;
+	font-size:40px;
+}
+.fondo{ 
+	background:pink; 
+	font-size: 80px;
+}
+.fondo2{
+	background:orange;
+	font-size:88px;
+}
+.fondo3{
+	background:grey;
+	font-size: 90px;
+}
+.kathe{
+	
+	font-size:50px;
+	color:blue;
+	font-family:monospace;
+	font-weight:50;
+}
+.jess{
+	background:purple;
+	font-size:100px;
+}
+ul img {
+	border-color:green;
+	border-top-style: dotted;
+}
+p i{
+	color:brown;
+	font-size:40px;
+}
+ul h4{
+	border-color:#7FFF00;
+	border-top-style: double;
+	font-size:50px;
+}
+#parah1 {
+    text-align: center;
+    color: red;
+}
